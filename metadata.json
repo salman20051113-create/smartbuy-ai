@@ -1,0 +1,8 @@
+{
+  "name": "SmartBuy AI",
+  "description": "AI-powered shopping assistant for Indian buyers with smart product recommendations, price analysis in INR (₹), comparison tools, and interactive buying advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
